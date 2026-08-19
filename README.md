@@ -1,0 +1,2 @@
+# Equitrix hackthon
+
